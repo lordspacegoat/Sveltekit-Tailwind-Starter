@@ -1,10 +1,9 @@
 <script>
-  import '../app.css';
+  import '$main/app.css';
 </script>
 
 <main>
-  <!-- CTA section -->
-  <div class="relative isolate mt-32 px-6 py-32 sm:mt-56 sm:py-40 lg:px-8">
+  <div class="relative isolate mt-32 px-6 py-32 sm:py-40 lg:px-8">
     <div
       class="absolute inset-x-0 top-10 -z-10 flex transform-gpu justify-center overflow-hidden blur-3xl"
       aria-hidden="true"
